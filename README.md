@@ -2,7 +2,7 @@
 
 <img  align="right" width="260" style="position: absolute; " src="https://cdn.discordapp.com/attachments/965066624556232737/965086468836065290/picasion.com_7ad88379a5a571d6344be35cb3b76643.gif">
 
-- tenho 17 anos
+- tenho 18 anos
 - Sou apaixonado por tecnologia
 - Eu moro no Brasil
 - Sou apaixonado por tecnologia e estou dedicado a me desenvolver cada dia mais como desenvolvedor 

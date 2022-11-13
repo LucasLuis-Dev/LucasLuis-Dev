@@ -10,7 +10,7 @@
 - Atualmente estou estudando a linguagem python e também  as linguagens de desenvolvimento web. 
 - Estou cursando de Sistemas de Informação da Universidade Federal de Pernambuco
 - Possuo inglês de nivel básico a intermediário
-- Link para meu projeto pessoal de pádina web portfólio onde conto mais sobre mim e exponho meus projetos: https://lucasluis1407.github.io/  
+- Link para meu projeto pessoal de pádina web portfólio onde conto mais sobre mim e exponho meus projetos: https://lucasluis-dev.github.io/ 
 
  ##
 

@@ -4,12 +4,11 @@
 <img  align="right" width="360" style="position: absolute; " src="https://cdn.discordapp.com/attachments/965066624556232737/1062033139054157864/octocat-1673278277629.png">
 
 - Tenho 18 anos
-- Sou apaixonado por tecnologia
+- Sou apaixonado por tecnologia e amo programar
 - Eu moro no Brasil
-- Sou apaixonado por tecnologia e estou dedicado a me desenvolver cada dia mais como desenvolvedor de software
-- Sou estudante de programação
-- Atualmente estou estudando a linguagem python e também  as linguagens de desenvolvimento web. 
-- Estou cursando de Sistemas de Informação da Universidade Federal de Pernambuco
+- Estou dedicado a me desenvolver cada dia mais como desenvolvedor de software
+- Atualmente estou estudando Estrutura de Dados e realizando um bootcamp de Java
+- Sou aluno da Universidade Federal de Pernambuco onde curso Sistemas de Informação e estou no meu 2º período
 - Possuo inglês de nivel básico a intermediário
 - Link para meu projeto pessoal de pádina web portfólio onde conto mais sobre mim e exponho meus projetos: https://lucasluis-dev.github.io/ 
 

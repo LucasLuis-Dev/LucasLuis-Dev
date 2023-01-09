@@ -1,7 +1,7 @@
 <h1 align="center">Olá <img width="40" src="https://www.emojiall.com/images/animations/joypixels/64px/waving_hand.gif" >, eu me chamo Lucas Luis 😀</h1>
 
 
-<img  align="right" width="360" style="position: absolute; " src="https://cdn.discordapp.com/attachments/965066624556232737/1062033139054157864/octocat-1673278277629.png">
+<img  align="right" width="290" style="position: absolute; " src="https://cdn.discordapp.com/attachments/965066624556232737/1062033139054157864/octocat-1673278277629.png">
 
 - Tenho 18 anos
 - Sou apaixonado por tecnologia e amo programar
@@ -34,11 +34,11 @@
   ##
  
 <div align="center"> 
-  <a href="https://www.instagram.com/lucas_lu1s.dev/" target="_blank"><img width="200" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/cznBfAMtKG" target="_blank"><img width="176" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:lucasluisouza@gmail.com"><img width="150" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-luis-9a83a2231/" target="_blank"><img width="190" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://api.whatsapp.com/send?phone=5581985301094" target="_blank"><img width="200" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/lucas_lu1s.dev/" target="_blank"><img width="160" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/cznBfAMtKG" target="_blank"><img width="135" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:lucasluisouza@gmail.com"><img width="115" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucas-luis-9a83a2231/" target="_blank"><img width="145" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://api.whatsapp.com/send?phone=5581985301094" target="_blank"><img width="155" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 </div>
  
  <div align="center">

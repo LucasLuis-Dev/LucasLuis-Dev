@@ -1,4 +1,4 @@
-# Olá <img width="40" src="https://www.emojiall.com/images/animations/joypixels/64px/waving_hand.gif" >, eu sou Lucas Luis
+# Olá <img width="40" src="https://www.emojiall.com/images/animations/joypixels/64px/waving_hand.gif" >, eu me chamo Lucas Luis
 
 <img  align="right" width="260" style="position: absolute; " src="https://cdn.discordapp.com/attachments/965066624556232737/965086468836065290/picasion.com_7ad88379a5a571d6344be35cb3b76643.gif">
 
@@ -14,12 +14,12 @@
 
  ##
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/LucasLuis-Dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasLuis-Dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLuis-Dev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block;"><br>
   <img align="center" alt="Lucas-HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Lucas-CSS" height="60" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -33,7 +33,7 @@
   
   ##
  
-<div> 
+<div align="center"> 
   <a href="https://www.instagram.com/lucas_lu1s.dev/" target="_blank"><img width="200" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/cznBfAMtKG" target="_blank"><img width="176" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:lucasluisouza@gmail.com"><img width="150" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

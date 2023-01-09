@@ -1,4 +1,9 @@
-<h1 align="center">Olá <img width="40" src="https://www.emojiall.com/images/animations/joypixels/64px/waving_hand.gif" >, eu me chamo Lucas Luis 😀</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=120&section=header"/>
+
+
+<h1 align="center">Olá <img width="40" src="https://www.emojiall.com/images/animations/joypixels/64px/waving_hand.gif">, eu me chamo Lucas Luis 😀</h1>
+
+
 
 
 <img  align="right" width="290" style="position: absolute; " src="https://cdn.discordapp.com/attachments/965066624556232737/1062033139054157864/octocat-1673278277629.png">
@@ -47,3 +52,4 @@
   
 </div>
 
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=120&section=footer"/>

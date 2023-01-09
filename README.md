@@ -1,11 +1,12 @@
-# Olá <img width="40" src="https://www.emojiall.com/images/animations/joypixels/64px/waving_hand.gif" >, eu me chamo Lucas Luis
+<h1 align="center">Olá <img width="40" src="https://www.emojiall.com/images/animations/joypixels/64px/waving_hand.gif" >, eu me chamo Lucas Luis 😀</h1>
 
-<img  align="right" width="260" style="position: absolute; " src="https://cdn.discordapp.com/attachments/965066624556232737/965086468836065290/picasion.com_7ad88379a5a571d6344be35cb3b76643.gif">
 
-- tenho 18 anos
+<img  align="right" width="360" style="position: absolute; " src="https://cdn.discordapp.com/attachments/965066624556232737/1062033139054157864/octocat-1673278277629.png">
+
+- Tenho 18 anos
 - Sou apaixonado por tecnologia
 - Eu moro no Brasil
-- Sou apaixonado por tecnologia e estou dedicado a me desenvolver cada dia mais como desenvolvedor 
+- Sou apaixonado por tecnologia e estou dedicado a me desenvolver cada dia mais como desenvolvedor de software
 - Sou estudante de programação
 - Atualmente estou estudando a linguagem python e também  as linguagens de desenvolvimento web. 
 - Estou cursando de Sistemas de Informação da Universidade Federal de Pernambuco
@@ -39,8 +40,11 @@
   <a href = "mailto:lucasluisouza@gmail.com"><img width="150" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-luis-9a83a2231/" target="_blank"><img width="190" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://api.whatsapp.com/send?phone=5581985301094" target="_blank"><img width="200" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-  
-  ![Snake animation](https://github.com/LucasLuis-Dev/LucasLuis-Dev/blob/output/github-contribution-grid-snake.svg)
+</div>
  
+ <div align="center">
+
+  ![Snake animation](https://github.com/LucasLuis-Dev/LucasLuis-Dev/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
 

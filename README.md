@@ -1,9 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=dd6387&height=120&section=header"/>
 
 
 <h1 align="center">Olá <img width="40" src="https://www.emojiall.com/images/animations/joypixels/64px/waving_hand.gif">, eu me chamo Lucas Luis 😀</h1>
 
-
+<br>
+<br>
 
 
 <img  align="right" width="290" style="position: absolute; " src="https://cdn.discordapp.com/attachments/965066624556232737/1062033139054157864/octocat-1673278277629.png">
@@ -19,11 +20,15 @@
 
  ##
 
+
+
 <div align="center">
-  <a href="https://github.com/LucasLuis-Dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasLuis-Dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLuis-Dev&layout=compact&langs_count=7&theme=dracula"/>
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasLuis-Dev&show_icons=true&theme=dracula)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLuis-Dev&layout=compact&theme=dracula&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
+ 
 <div align="center" style="display: inline_block;"><br>
   <img align="center" alt="Lucas-HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -52,4 +57,4 @@
   
 </div>
 
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=120&section=footer"/>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=dd6387&height=120&section=footer"/>

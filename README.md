@@ -26,19 +26,19 @@
 
 ##
 
+ 
 <div align="center">
+  
+   <p><img  align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=LucasLuis-Dev&&theme=tokyonight" alt="Lucas Luis" ></p>
 
  
-   ![](https://github-readme-stats.vercel.app/api?username=LucasLuis-Dev&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLuis-Dev&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-   ![](https://github-readme-streak-stats.herokuapp.com/?user=LucasLuis-Dev&theme=tokyonight&hide_border=false)
    
+   <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=LucasLuis-Dev&show_icons=true&locale=en&theme=tokyonight" alt="Lucas Luis" ></p><br>
+   
+ 
   
-
-
-  
-
-
+   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasLuis-Dev&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Lucas Luis" /></p>
+ 
 </div>
 
 

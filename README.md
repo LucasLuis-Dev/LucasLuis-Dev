@@ -36,7 +36,7 @@
 </div>
 
 <div>
- <p><img align="left" width="400px" src="https://github-readme-stats.vercel.app/api?username=LucasLuis-Dev&show_icons=true&locale=en&theme=tokyonight" alt="Lucas Luis" ></p>
+ <p><img align="left" width="450px" src="https://github-readme-stats.vercel.app/api?username=LucasLuis-Dev&show_icons=true&locale=en&theme=tokyonight" alt="Lucas Luis" ></p>
    
   
    <p><img align="left" width="320px" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasLuis-Dev&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Lucas Luis" /></p>

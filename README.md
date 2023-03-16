@@ -1,4 +1,6 @@
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2E2EFE&height=120&section=header"/>
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2E2EFE&height=120&section=header"/> -->
+
+<img src="https://cdn.discordapp.com/attachments/965066624556232737/1085781550605533255/web_developer1.gif">
 
 <h1 align="center">Hi 👋, I'm Lucas Luis de Souza</h1>
 <h3 align="center">Web Developer</h3>

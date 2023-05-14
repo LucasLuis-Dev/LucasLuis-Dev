@@ -1,65 +1,72 @@
-<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2E2EFE&height=120&section=header"/> -->
-
-<img src="https://cdn.discordapp.com/attachments/965066624556232737/1085781550605533255/web_developer1.gif">
-
-<h1 align="center">Hi 👋, I'm Lucas Luis de Souza</h1>
-<h3 align="center">Web Developer</h3>
-
-- 🔭 I’m currently working on [Screenflix](https://github.com/LucasLuis-Dev/Screenflix)
-
-- 🌱 I’m currently learning **JavaScript, HTML e CSS**
-
-- 👨‍💻 All of my projects are available at [https://lucasluis-dev.github.io/](https://lucasluis-dev.github.io/)
-
-- 📫 How to reach me **lucasluisouza@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/lucasluis-dev/](https://www.linkedin.com/in/lucasluis-dev/)
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/lucas luis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas luis" height="30" width="40" /></a>
-<a href="https://instagram.com/lucaslu1s.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucaslu1s.dev" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-##
-
- 
-<div align="center">
+<header>
+    <h1>Olá, sou Lucas Luis! 👋</h1>
+     
   
-   <p><img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LucasLuis-Dev&&theme=tokyonight" alt="Lucas Luis" ></p>
+Tenho 18 anos, Recife/Pernambuco - Brasil. Eu sou apaixonado por programação e tecnologia, e tenho experiência em criação de aplicações web com foco na utilização da linguagem Python, Flask, Django.
 
- 
+No momento, estou cursando Sistemas de Informação na Universidade Federal de Pernambuco, onde atualmente estou no meu 3º período. Além disso, estou sempre buscando aprender novas tecnologias e habilidades, e atualmente estou focado em desenvolver minhas habilidades com javascript, typescript e seus respectivos frameworks.
+</header>
 
-</div>
+<hr>
+
+## 💻 Tecnologias e Ferramentas
 
 <div>
- <p><img align="left" width="450px" src="https://github-readme-stats.vercel.app/api?username=LucasLuis-Dev&show_icons=true&locale=en&theme=tokyonight" alt="Lucas Luis" ></p>
+    <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
+    <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
+    <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
+    <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
+    <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
+    <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "PYTHON"/></code>
+    <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title = "DJANGO"/></code>
+    <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title = "FLASK"/></code>
+    <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title = "LINUX"/></code>
+    <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title = "TAILWINDCSS"/></code>
+     <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title = "VSCODE"/></code>
+    
+</div>
+
+
+<br><br>
+
+
+
+## 📚 Aprendendo
+
+<div>
+    <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
+    <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title = "TYPESCRIPT"/></code>
+    <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title = "REACT"/></code>
+    <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title = "DJANGO"/></code>
+    <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title = "FLASK"/></code>
+    
+</div>
+
+<br><br>
+
+## 📫 Contato
+
+<div>
+    <a href="https://www.linkedin.com/in/lucasluis-dev/" target="_blank"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+    <a href="https://www.instagram.com/lucas_lu1s.dev/" target="_blank"><img width="50px" src="https://cdn.discordapp.com/attachments/965066624556232737/1107145163396100146/instagram.png" /></a>
+    <a href="mailto:lucasluisouza@gmail.com" target="_blank"><img width="50px" src="https://cdn.discordapp.com/attachments/965066624556232737/1107145569044009051/gmail.png" /></a>
+</div>
+
+<br><br>
+
+<div>
+ <img  width="400px" src="https://github-readme-stats.vercel.app/api?username=LucasLuis-Dev&show_icons=true&locale=en&theme=tokyonight" alt="Lucas Luis" />
    
   
-   <p><img align="left" width="320px" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasLuis-Dev&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Lucas Luis" /></p>
+   <img width="310px" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasLuis-Dev&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Lucas Luis" />
+    
+    
  
  
 </div>
 
+<br><br>
 
-
- <div align="center">
-
-  ![Snake animation](https://github.com/LucasLuis-Dev/LucasLuis-Dev/blob/output/github-contribution-grid-snake.svg)
-  
+<div>
+     ![Snake animation](https://github.com/LucasLuis-Dev/LucasLuis-Dev/blob/output/github-contribution-grid-snake.svg)
 </div>
-
-
-
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2E2EFE&height=120&section=footer"/>
- 
- 
- 
- 
- 
-
-

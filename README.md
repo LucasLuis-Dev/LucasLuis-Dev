@@ -83,7 +83,10 @@ No momento, estou cursando Sistemas de Informação na Universidade Federal de P
 
 <hr/>
 
-<br><br>
+
+<div align="center">
+  <img src="https://visitor-badge.feriirawann.repl.co/?username=LucasLuis-Dev&repo=JairClass&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Contador de Visitas do Perfil no Github do JairClass" height="40px" />
+</div><br><br>
 
 <div>
      <!--![snake gif](https://github.com/LucasLuis-Dev/LucasLuis-Dev/blob/output/github-contribution-grid-snake.svg)-->

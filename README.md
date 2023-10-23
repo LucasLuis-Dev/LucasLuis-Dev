@@ -54,13 +54,34 @@ No momento, estou cursando Sistemas de Informação na Universidade Federal de P
 
 <br><br>
 
-<div >
- <img  width="410px" src="https://github-readme-stats.vercel.app/api?username=LucasLuis-Dev&show_icons=true&locale=en&theme=tokyonight" alt="Lucas Luis" />
-   
-  
-   <img width="310px" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasLuis-Dev&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Lucas Luis" />
- 
+## 👨‍💻 Minhas Contribuições 
+
+<p align="center">
+  <img width="50%" height="195px"  src="https://github-readme-stats.vercel.app/api?username=LucasLuis-Dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Jair Willian Class github stats"/> 
+  <img width="45%" height="195px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLuis-Dev&layout=compact&langs_count=7&theme=dark&card_width=500"/>
+
+    
+<br>
+    
+  <div align="center">
+      
+ <a href="https://git.io/streak-stats">
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=LucasLuis-Dev&theme=dark&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&card_width=600" alt="GitHub Streak" />
+ </a>
+<br/><br/>
 </div>
+    
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LucasLuis-Dev&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+<hr/>
+
+
+## 🎯 Atividade 
+
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=LucasLuis-Dev&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuição" />
+
+<hr/>
 
 <br><br>
 

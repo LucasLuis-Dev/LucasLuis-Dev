@@ -58,7 +58,7 @@ No momento, estou cursando Sistemas de Informação na Universidade Federal de P
 
 <p align="center">
   <img width="50%" height="195px"  src="https://github-readme-stats.vercel.app/api?username=LucasLuis-Dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Jair Willian Class github stats"/> 
-  <img width="45%" height="195px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLuis-Dev&layout=compact&langs_count=7&theme=dark&card_width=500"/>
+  <img width="45%" height="195px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLuis-Dev&layout=compact&langs_count=7&theme=dark&card_width=400"/>
 
     
 <br>

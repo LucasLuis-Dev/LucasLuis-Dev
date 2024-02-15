@@ -2,9 +2,9 @@
     <h1>Olá, sou Lucas Luis! 👋</h1>
      
   
-Tenho 19 anos, Recife/Pernambuco - Brasil. Eu sou apaixonado por programação e tecnologia, e tenho experiência em criação de aplicações web com foco na utilização da linguagem Python, Flask, Django.
+Tenho 19 anos, Recife/Pernambuco - Brasil. Eu sou apaixonado por programação e tecnologia, e tenho experiência em criação de aplicações web com foco na utilização da linguagem JavaScript, TypeScript e Angular.
 
-No momento, estou cursando Sistemas de Informação na Universidade Federal de Pernambuco, onde atualmente estou no meu 3º período. Além disso, estou sempre buscando aprender novas tecnologias e habilidades, e atualmente estou focado em desenvolver minhas habilidades com javascript, typescript e seus respectivos frameworks.
+No momento, estou cursando Sistemas de Informação na Universidade Federal de Pernambuco, onde atualmente estou no meu 4º período. Além disso, estou sempre buscando aprender novas tecnologias e habilidades, e atualmente estou focado em desenvolver minhas habilidades com javascript, typescript e seus respectivos frameworks.
 </header>
 
 <br>
@@ -14,6 +14,7 @@ No momento, estou cursando Sistemas de Informação na Universidade Federal de P
 <div>
     <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
     <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
+    <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title = "SASS"/></code>
     <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
     <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
     <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
@@ -21,9 +22,9 @@ No momento, estou cursando Sistemas de Informação na Universidade Federal de P
     <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title = "DJANGO"/></code>
     <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title = "FLASK"/></code>
     <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title = "LINUX"/></code>
-    <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title = "TAILWINDCSS"/></code>
+    <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title = "TAILWINDCSS"/></code>
      <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title = "VSCODE"/></code>
-    
+     <code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" title = "ANGULAR"/></code>
 </div>
 
 
@@ -36,9 +37,7 @@ No momento, estou cursando Sistemas de Informação na Universidade Federal de P
 <div>
     <code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
     <code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title = "TYPESCRIPT"/></code>
-    <code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title = "REACT"/></code>
-    <code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title = "DJANGO"/></code>
-    <code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title = "FLASK"/></code>
+    <code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" title = "ANGULAR"/></code>
     
 </div>
 

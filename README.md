@@ -4,7 +4,7 @@
   
 Tenho 19 anos, Recife/Pernambuco - Brasil. Eu sou apaixonado por programação e tecnologia, e tenho experiência em criação de aplicações web com foco na utilização da linguagem JavaScript, TypeScript e Angular.
 
-No momento, estou cursando Sistemas de Informação na Universidade Federal de Pernambuco, onde atualmente estou no meu 4º período. Além disso, estou sempre buscando aprender novas tecnologias e habilidades, e atualmente estou focado em desenvolver minhas habilidades com javascript, typescript e seus respectivos frameworks.
+No momento, estou cursando Sistemas de Informação na Universidade Federal de Pernambuco, onde atualmente estou no meu 5º período. Além disso, estou sempre buscando aprender novas tecnologias e habilidades, e atualmente estou focado em desenvolver minhas habilidades com javascript, typescript e seus respectivos frameworks.
 </header>
 
 <br>
@@ -47,8 +47,8 @@ No momento, estou cursando Sistemas de Informação na Universidade Federal de P
 
 <div>
     <a href="https://www.linkedin.com/in/lucasluis-dev/" target="_blank"><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
-    <a href="https://www.instagram.com/lucas_lu1s.dev/" target="_blank"><img width="45px" src="https://cdn.discordapp.com/attachments/965066624556232737/1107145163396100146/instagram.png" /></a>
-    <a href="mailto:lucasluisouza@gmail.com" target="_blank"><img width="45px" src="https://cdn.discordapp.com/attachments/965066624556232737/1107145569044009051/gmail.png" /></a>
+    <a href="https://www.instagram.com/lucas_lu1s.dev/" target="_blank"><img width="45px" src="https://img.icons8.com/?size=100&id=kfnjM4KPaLxk&format=png&color=000000" /></a>
+    <a href="mailto:lucasluisouza@gmail.com" target="_blank"><img width="45px" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" /></a>
 </div>
 
 <br><br>
@@ -73,14 +73,11 @@ No momento, estou cursando Sistemas de Informação na Universidade Federal de P
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=LucasLuis-Dev&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
-<hr/>
 
 
 ## 🎯 Atividade 
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=LucasLuis-Dev&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuição" />
-
-<hr/>
 
 
 <div align="center">

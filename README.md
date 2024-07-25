@@ -73,8 +73,8 @@ No momento, estou cursando Sistemas de Informação na Universidade Federal de P
 ### 👨‍💻 Minhas Contribuições 
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasluis-dev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="lucasluis-dev's Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasluis-dev&theme=vue-dark&hide_border=true" alt="lucasluis-dev's Streak" width="51%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lucasluis-dev&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="lucasluis-dev's Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasluis-dev&theme=dracula&hide_border=true" alt="lucasluis-dev's Streak" width="51%" />
 
 <!--
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasluis-dev&theme=vue-dark&show_icons=true&hide_border=true&layout=donut" alt="lucasluis-dev's Top Languages" />

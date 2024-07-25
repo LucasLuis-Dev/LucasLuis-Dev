@@ -1,3 +1,4 @@
+<img src="https://mcusercontent.com/7b4adcb27c52814672f8d14b5/images/f1d64b64-f36b-3c1e-5916-e7ca3d2ec556.png" />
 
 # Olá, sou Lucas Luis! 👋
      
@@ -96,5 +97,3 @@ No momento, estou cursando Sistemas de Informação na Universidade Federal de P
 ### 🎯 Atividade 
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=LucasLuis-Dev&theme=dracula&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuição" />
-
-</div>

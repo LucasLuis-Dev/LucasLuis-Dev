@@ -3,7 +3,7 @@
 # Olá, sou Lucas Luis! 👋
      
   
-Tenho 19 anos, Recife/Pernambuco - Brasil. Eu sou apaixonado por programação e tecnologia, e tenho experiência em criação de aplicações web com foco na utilização da linguagem JavaScript, TypeScript e Angular.
+Tenho 20 anos, Recife/Pernambuco - Brasil. Eu sou apaixonado por programação e tecnologia, e tenho experiência em criação de aplicações web com foco na utilização da linguagem JavaScript, TypeScript e Angular.
 
 No momento, estou cursando Sistemas de Informação na Universidade Federal de Pernambuco, onde atualmente estou no meu 5º período. Além disso, estou sempre buscando aprender novas tecnologias e habilidades, e atualmente estou focado em desenvolver minhas habilidades com javascript, typescript e seus respectivos frameworks.
 

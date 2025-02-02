@@ -15,14 +15,9 @@ No momento, estou cursando Sistemas de Informação na Universidade Federal de P
     <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
     <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title = "SASS"/></code>
     <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
-    <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
-    <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
     <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "PYTHON"/></code>
-    <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title = "DJANGO"/></code>
-    <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title = "FLASK"/></code>
     <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title = "LINUX"/></code>
     <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title = "TAILWINDCSS"/></code>
-     <code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title = "VSCODE"/></code>
      <code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" title = "ANGULAR"/></code>
 </div>
 
@@ -33,8 +28,8 @@ No momento, estou cursando Sistemas de Informação na Universidade Federal de P
 
 <div>
     <code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" title = "ANGULAR"/></code>
-    <code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" title = "VUEJS"/></code>
-    
+    <code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title="PHP" /></code>
+    <code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" /></code>
 </div>
 
 ### 🎯 Projetos em Destaque
@@ -50,12 +45,12 @@ No momento, estou cursando Sistemas de Informação na Universidade Federal de P
     <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasluis-dev&repo=Level-UP" alt="Level-UP"/>
   </a>
 
-  <a href="https://github.com/LucasLuis-Dev/Dev-Community">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasluis-dev&repo=Dev-Community" alt="Dev-Community"/>
+  <a href="https://github.com/LucasLuis-Dev/Projeto-Escudo-Rosa">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasluis-dev&repo=Projeto-Escudo-Rosa" alt="Escudo Rosa"/>
   </a>
 
   <a href="https://github.com/LucasLuis-Dev/Portfolio-Lucas-Luis">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasluis-dev&repo=Portfolio-Lucas-Luis" alt="Dev-Community"/>
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasluis-dev&repo=Portfolio-Lucas-Luis" alt="Portfólio"/>
   </a>
 
 </div>

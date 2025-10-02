@@ -92,3 +92,9 @@ No momento, estou cursando Sistemas de Informação na Universidade Federal de P
 ### 🎯 Atividade 
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=LucasLuis-Dev&theme=dracula&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuição" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasluis-dev/lucasluis-dev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucasluis-dev/lucasluis-dev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lucasluis-dev/lucasluis-dev/output/pacman-contribution-graph.svg">
+</picture>

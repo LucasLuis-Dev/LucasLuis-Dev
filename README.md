@@ -3,7 +3,7 @@
 # Olá, sou Lucas Luis! 👋
      
   
-Tenho 20 anos, Recife/Pernambuco - Brasil. Eu sou apaixonado por programação e tecnologia, e tenho experiência em criação de aplicações web com foco na utilização da linguagem JavaScript, TypeScript e Angular.
+Tenho 21 anos, Recife/Pernambuco - Brasil. Eu sou apaixonado por programação e tecnologia, e tenho experiência em criação de aplicações web com foco na utilização da linguagem JavaScript, TypeScript e Angular.
 
 No momento, estou cursando Sistemas de Informação na Universidade Federal de Pernambuco, onde atualmente estou no meu 5º período. Além disso, estou sempre buscando aprender novas tecnologias e habilidades, e atualmente estou focado em desenvolver minhas habilidades com javascript, typescript e seus respectivos frameworks.
 
@@ -11,14 +11,17 @@ No momento, estou cursando Sistemas de Informação na Universidade Federal de P
 ### 💻 Tecnologias e Ferramentas
 
 <div>
-    <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
-    <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
-    <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title = "SASS"/></code>
-    <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
-    <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "PYTHON"/></code>
-    <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title = "LINUX"/></code>
-    <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title = "TAILWINDCSS"/></code>
+     <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
+     <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
+     <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title = "SASS"/></code>
+     <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
+     <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "PYTHON"/></code>
+     <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title = "LINUX"/></code>
+     <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title = "TAILWINDCSS"/></code>
      <code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" title = "ANGULAR"/></code>
+     <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" title = "DOCKER" /></code>
+     <code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"  title = "LARAVEL"  /></code>
+     <code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg"  title = "POSTGRESQL"  /></code>
 </div>
 
 
@@ -27,9 +30,8 @@ No momento, estou cursando Sistemas de Informação na Universidade Federal de P
 ### 📚 Aprendendo
 
 <div>
-    <code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" title = "ANGULAR"/></code>
-    <code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title="PHP" /></code>
-    <code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" /></code>
+    <code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title = "JAVA"/></code>
+    <code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="SPRING" /></code>
 </div>
 
 ### 🎯 Projetos em Destaque

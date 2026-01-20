@@ -2,11 +2,11 @@
 
 # Olá, sou Lucas Luis! 👋
      
-  
-Tenho 21 anos, Recife/Pernambuco - Brasil. Eu sou apaixonado por programação e tecnologia, e tenho experiência em criação de aplicações web com foco na utilização da linguagem JavaScript, TypeScript e Angular.
+Tenho 21 anos, Recife/Pernambuco - Brasil. Sou **Tech Lead no V-lab UFPE** e desenvolvedor fullstack apaixonado por criar soluções escaláveis e eficientes. Tenho experiência sólida em desenvolvimento web, trabalhando com arquiteturas modernas e boas práticas de código.
 
-No momento, estou cursando Sistemas de Informação na Universidade Federal de Pernambuco, onde atualmente estou no meu 5º período. Além disso, estou sempre buscando aprender novas tecnologias e habilidades, e atualmente estou focado em desenvolver minhas habilidades com javascript, typescript e seus respectivos frameworks.
+Atualmente curso **Sistemas de Informação na Universidade Federal de Pernambuco (CIn-UFPE)** - 7º período. Minha expertise abrange desde frontend com Angular e Vue.js até backend com NestJS, FastAPI e Laravel, sempre focando em qualidade, performance e manutenibilidade.
 
+Especializado em arquiteturas como **Microserviços**, **Facade Pattern** e **Feature-Driven Development**, busco constantemente aprimorar minhas habilidades e contribuir com a comunidade dev.
 
 ### 💻 Tecnologias e Ferramentas
 
@@ -14,45 +14,49 @@ No momento, estou cursando Sistemas de Informação na Universidade Federal de P
      <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
      <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
      <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title = "SASS"/></code>
-     <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
+     <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
+     <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title = "TYPESCRIPT"/></code>
+     <code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" title = "ANGULAR"/></code>
+     <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title = "VUE.JS"/></code>
+     <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title = "NODE.JS"/></code>
+     <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" title = "NESTJS"/></code>
+     <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title = "FASTAPI"/></code>
+     <code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" title = "LARAVEL"/></code>
+     <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title = "PHP"/></code>
      <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "PYTHON"/></code>
+     <code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" title = "POSTGRESQL"/></code>
+     <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" title = "DOCKER"/></code>
+     <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
      <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title = "LINUX"/></code>
      <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title = "TAILWINDCSS"/></code>
-     <code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" title = "ANGULAR"/></code>
-     <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" title = "DOCKER" /></code>
-     <code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"  title = "LARAVEL"  /></code>
-     <code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg"  title = "POSTGRESQL"  /></code>
 </div>
-
-
-
 
 ### 📚 Aprendendo
 
 <div>
     <code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title = "JAVA"/></code>
     <code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="SPRING" /></code>
+    <code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" title="KUBERNETES" /></code>
 </div>
 
 ### 🎯 Projetos em Destaque
 
 <div align="left" style="display: inline-block;">
-    
 
- <a href="https://github.com/LucasLuis-Dev/GPT4ENEM">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasluis-dev&repo=GPT4ENEM" alt="GPT4ENEM"/>
+  <a href="https://github.com/LucasLuis-Dev/PetroAnalytics">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasluis-dev&repo=PetroAnalytics" alt="PetroAnalytics"/>
+  </a>
+
+  <a href="https://github.com/LucasLuis-Dev/angular-archetype">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasluis-dev&repo=angular-archetype" alt="Angular Archetype"/>
   </a>
 
   <a href="https://github.com/LucasLuis-Dev/Level-UP">
     <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasluis-dev&repo=Level-UP" alt="Level-UP"/>
   </a>
 
-  <a href="https://github.com/LucasLuis-Dev/Projeto-Escudo-Rosa">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasluis-dev&repo=Projeto-Escudo-Rosa" alt="Escudo Rosa"/>
-  </a>
-
-  <a href="https://github.com/LucasLuis-Dev/Portfolio-Lucas-Luis">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasluis-dev&repo=Portfolio-Lucas-Luis" alt="Portfólio"/>
+  <a href="https://github.com/LucasLuis-Dev/HabitForge">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasluis-dev&repo=HabitForge" alt="HabitForge"/>
   </a>
 
 </div>
@@ -65,31 +69,12 @@ No momento, estou cursando Sistemas de Informação na Universidade Federal de P
     <a href="mailto:lucasluisouza@gmail.com" target="_blank"><img width="45px" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" /></a>
 </div>
 
-
-
 ### 👨‍💻 Minhas Contribuições 
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=lucasluis-dev&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="lucasluis-dev's Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasluis-dev&theme=dracula&hide_border=true" alt="lucasluis-dev's Streak" width="51%" />
-
-<!--
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasluis-dev&theme=vue-dark&show_icons=true&hide_border=true&layout=donut" alt="lucasluis-dev's Top Languages" />
--->
 </p>
-
-
-
-<!--
-<div align="left" style="display: inline-block;">
-      
-
-
- <img src="https://github-profile-trophy.vercel.app/?username=LucasLuis-Dev&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-
-</div>
--->
-
 
 ### 🎯 Atividade 
 

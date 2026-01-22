@@ -1,4 +1,4 @@
-<img src="https://mcusercontent.com/7b4adcb27c52814672f8d14b5/images/f1d64b64-f36b-3c1e-5916-e7ca3d2ec556.png" />
+<img src="https://mcusercontent.com/7b4adcb27c52814672f8d14b5/images/498826a1-dfcd-9a68-05a2-b4b0febc43e5.png" />
 
 # Olá, sou Lucas Luis! 👋
      
